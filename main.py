@@ -4,7 +4,7 @@
 
 # from ultralytics import YOLO
 
-# # Dimensiones deseadas (por ejemplo, Full HD)
+# # Dimensiones deseadas
 # screen_width = 1920
 # screen_height = 1080
 
@@ -36,7 +36,7 @@
 # import cv2
 # from ultralytics import YOLO
 
-# # Puedes cambiar el índice si la cámara principal no es la 0
+# # Cambiar el índice si la cámara principal no es la 0
 # camara = cv2.VideoCapture(0)  # Usa 1 si tienes más de una cámara y la 0 no funciona
 
 # if not camara.isOpened():
